@@ -6,7 +6,7 @@ Création d’un petit jeu en 2D utilisant la bibliothèque MiniLibX, avec dépl
 
 Version de partie de base:
 
-![Aperçu du jeu](./Screencast_so_long_mandatory.gif)
+![Aperçu du jeu](Screencast_so_long_mandatory.gif)
 
 [Voir le sujet](./subject.pdf)
 
