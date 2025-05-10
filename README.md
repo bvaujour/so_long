@@ -1,4 +1,5 @@
 # so_long
+[Voir le sujet](./subject.pdf)
 
 Projet de niveau 3 de l'école 42.
 
@@ -18,6 +19,5 @@ Version de partie bonus: +Animations +Ennemis
 
 ![Aperçu du jeu](Screencast_so_long_bonus.gif)
 
-[Voir le sujet](./subject.pdf)
 
 ![capture d'écran](./Screenshot.png)
